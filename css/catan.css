@@ -1,0 +1,9 @@
+/*Global styles*/
+
+span.card-num {
+    flex: 0;
+    padding-left: 3px;
+    padding-right: 3px;
+    background-color: rgb(0,0,0,.2);
+    border-radius: 4px
+}

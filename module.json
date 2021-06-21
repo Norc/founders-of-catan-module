@@ -1,0 +1,18 @@
+{   
+    "name": "catan",   
+    "title": "Founders of Catan",   
+    "description": "Settlers game for my personal use only. DO NOT DISTRIBUTE. No seriously.",   
+    "author": "Norc",
+    "version": "1.0",
+    "minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion":"0.7.9",
+    "esmodules": [
+      "index.js"
+      ],
+    "styles": [
+      "./css/catan.css"
+      ],
+    "manifest": "",
+    "download": "",
+    "url": ""
+  }
